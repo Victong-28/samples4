@@ -41,8 +41,9 @@ Our analysis reveals significant variations in safety performance across differe
 **Recommendations for Aircraft Procurement:**
 1.  **Prioritize aircraft from manufacturers like [Manufacturer A, B, C]** due to their demonstrably lower risk profiles.
 2.  **Implement enhanced pilot training and operational protocols** focusing on high-risk flight phases to mitigate accident probabilities regardless of aircraft type.
-3.  **Conduct deeper model-specific safety assessments![Safest VS Most Fatal Locations.pdf](https://github.com/user-attachments/files/20959086/Safest.VS.Most.Fatal.Locations.pdf)
-** for shortlisted aircraft within recommended manufacturers, cross-referencing with operational and maintenance costs.
+3.  **Conduct deeper model-specific safety assessments
+** for shortlisted aircraft within recommended manufacturers,![Risky vs Safest Models](https://github.com/user-attachments/assets/28eff8cd-bf16-4002-a236-b687c2d561ea)
+ cross-referencing with operational and maintenance costs.
 
 
 
