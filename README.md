@@ -34,7 +34,7 @@ This authoritative source ensures the reliability and suitability of the data fo
 
 Our analysis reveals significant variations in safety performance across different aircraft manufacturers and operational contexts. Key insights include:
 
-* **Leading Safety Performers:** Identify **[Manufacturer A]**, **[Manufacturer B]**, and **[Manufacturer C]** as consistently demonstrating lower fatal accident rates and reduced severe damage incidents among makes with substantial operational history.
+* **Leading Safety Performers: **177MF LLC**, **5 Rivers LLC**, and **67 Flying Duchtman** as consistently demonstrating lower fatal accident rates and reduced severe damage incidents among makes with substantial operational history.
 * **Operational Risk Hotspots:** Accidents, particularly fatal ones, are disproportionately concentrated during specific flight phases such as **[e.g., Takeoff, Landing, Maneuvering]**, highlighting critical areas for operational safety focus.
 * **Improving Industry Trend:** The overall fatal accident rate in general aviation has shown a [decreasing/stable] trend over the past decades, reflecting ongoing advancements in safety standards and technology.
 
