@@ -45,5 +45,9 @@ Our analysis reveals significant variations in safety performance across differe
 ** for shortlisted aircraft within recommended manufacturers,![Risky vs Safest Models](https://github.com/user-attachments/assets/28eff8cd-bf16-4002-a236-b687c2d561ea)
  cross-referencing with operational and maintenance costs.
 
+![weather condition per Flight Purpose](https://github.com/user-attachments/assets/c2fb4e41-4bb0-4790-be58-b![Safest VS Most Fatal Locations](https://github.com/user-attachments/assets/e52d9a5e-ec86-4498-89a2-3ca13d474de7)
+9a0394d0597)
 
+![make vs injuries](https://github.com/user-attachments/assets/71c0a7af-b3e9-4840-9449-20890ef78ea5)
 
+![Weather Vs Trends over the years](https://github.com/user-attachments/assets/1253e5a4-f601-448e-b41a-00254ce4a8b5)
